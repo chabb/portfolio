@@ -3,9 +3,13 @@
     "path": "/portfolio2",
     "page": "./pages/home",
     "chunk": "main",
-    "data": {
-      "articles": "GET https://gist.githubusercontent.com/koistya/a32919e847531320675764e7308b796a/raw/articles.json"
-    }
+    "data": {}
+  },
+  {
+    "path": "/",
+    "page": "./pages/home",
+    "chunk": "main",
+    "data": {}
   },
   {
     "path": "/error",
