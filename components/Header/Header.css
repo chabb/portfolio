@@ -1,0 +1,136 @@
+@value baseLineHeight, baseMargin, headingTracking from "../../core/styles/values/typography.css";
+@value primaryColor, invertedColor from "../../core/styles/values/colors.css";
+@value containerWidth from "../../core/styles/values/layout.css";
+@value defaultTransition as transition from "../../core/styles/values/transitions.css";
+
+.root {
+  position: relative;
+
+  /* To hide overflown bg */
+  overflow: hidden;
+
+  margin-bottom: calc(baseMargin * 2);
+
+  color: invertedColor;
+  background-color: primaryColor;
+}
+
+.bg {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+
+  opacity: 0.1;
+
+  font-size: 14px;
+  line-height: 1.25;
+}
+
+/*
+ * Available date
+ */
+.available {
+  /* To stack in front of bg */
+  position: relative;
+  z-index: 3;
+
+  margin-bottom: 0;
+  padding: baseLineHeight;
+
+  text-align: right;
+  letter-spacing: headingTracking;
+  text-transform: uppercase;
+}
+
+.availableDate {
+  composes: heading-4 from '../../core/styles/helpers/typography.css';
+
+  margin-left: calc(headingTracking * -2);
+}
+
+/*
+ * Bottom Panel
+ */
+.bottomPanel {
+  /* To stack in front of bg */
+  position: relative;
+  z-index: 2;
+
+  width: 100%;
+  padding: baseLineHeight;
+}
+
+.center {
+  lost-center: containerWidth;
+}
+
+.maxWidth {
+  max-width: 600px;
+}
+
+.content {
+  margin-right: 11.75%;
+  margin-bottom: baseMargin;
+  margin-left: 20.5%;
+}
+
+/*
+ * Menu
+ */
+.menu {
+  padding-left: calc(baseLineHeight / 2);
+}
+
+.menuHidden {
+  transition: all 300ms;
+
+  opacity: 0;
+
+  composes: menu;
+}
+
+.menuItem {
+  display: block;
+
+  margin-bottom: calc(baseMargin / 3);
+
+  line-height: calc(baseLineHeight * 2);
+}
+
+.menuItem a {
+  display: inline-block;
+
+  padding: 0 calc(baseLineHeight / 2);
+
+  transition: transition;
+  text-decoration: none;
+
+  color: invertedColor;
+  border-radius: 3px;
+
+  line-height: calc(baseLineHeight * 2);
+}
+
+.menuItem a:hover,
+.menuItem a:focus {
+  text-decoration: none;
+
+  color: primaryColor;
+  background-color: invertedColor;
+}
+
+.menuItem svg {
+  position: relative;
+  top: 2px;
+
+  margin-right: 0.5em;
+}
+
+.menuItem path {
+  transition: transition;
+}
+
+.menuItem a:hover path,
+.menuItem a:focus path {
+  fill: primaryColor;
+}

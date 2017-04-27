@@ -1,0 +1,15 @@
+@value baseLineHeight from "../../core/styles/values/typography.css";
+@value containerWidth from "../../core/styles/values/layout.css";
+@value defaultEasing as easing from "../../core/styles/values/transitions.css";
+
+.root {
+  height: 100%;
+}
+
+.content {
+  lost-center: containerWidth;
+}
+
+.contentPad {
+  padding: 0 baseLineHeight;
+}

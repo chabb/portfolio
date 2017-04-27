@@ -1,0 +1,7 @@
+@value baseMargin from "../../core/styles/values/typography.css";
+
+.svg {
+  width: 100%;
+  height: auto;
+  margin-bottom: baseMargin;
+}

@@ -1,0 +1,11 @@
+@value baseFontFamily: "Source Sans Pro", sans-serif;
+@value baseFontSize: 1em;
+@value baseFontSizeSmall: 14px;
+@value baseFontSizeSmaller: 12px;
+@value baseFontWeight: 400;
+@value baseLineHeight: 1.5em;
+@value baseMargin: baseLineHeight;
+
+@value headingTracking: -0.065em;
+
+@value boldFontWeight: 700;

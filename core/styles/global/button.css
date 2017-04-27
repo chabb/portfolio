@@ -1,0 +1,21 @@
+@value baseColor from "./values/colors.css";
+
+button {
+  display: inline-block;
+
+  padding: 0;
+
+  cursor: pointer;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+
+  color: baseColor;
+  border: 0;
+  background-color: transparent;
+
+  font-family: inherit;
+  line-height: inherit;
+
+  appearance: none;
+}

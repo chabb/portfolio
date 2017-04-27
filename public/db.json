@@ -1,0 +1,402 @@
+{
+  "availableDate": "May 2017",
+  "cvLink": "./CV.pdf",
+  "description": "<blockquote><p>I will bring <strong>6 years of experience and knowledge; a deep understanding of web technologies and process;</strong> and a capability to your team that can be applied throughout your web process.</p> </blockquote> <p>I am a <strong>clear,</strong> <strong>proactive communicator;</strong> am <strong>self-managed,</strong> although I welcome review; own a <strong>problem-solving mindset;</strong> and am <strong>focused on delivery</strong> with minimal guidance. I am <strong>technically competent,</strong> <strong>industry aware</strong> and <strong>flexible</strong> - <strong>adapting to your in-house conventions, frameworks, guidelines and build systems,</strong> meaning I can be integrated onto projects seamlessly.</p> <p>Drop me an email at <a href='mailto:chabbey78@gmail'>chabbey78@gmail.com</a>. I will be looking for contracts to start in <strong>April 2017</strong>.</p>",
+  "skills": [
+    {
+      "name": "HTML / HTML5",
+      "start": 2010,
+      "skills": [
+        {
+            "name": "Semantic Markup",
+            "start": 2010,
+            "finish": 2017
+        },
+        {
+            "name": "Accessibility",
+            "start": 2010,
+            "finish": 2017
+        }
+      ]
+    },
+    {
+      "name": "CSS / CSS3",
+      "start": 2010,
+      "skills": [
+        {
+            "name": "Responsive Design",
+            "start": 2012,
+            "finish": 2017
+        },
+        {
+            "name": "Processors",
+            "notes": [
+              "PostCSS",
+              "LESS"
+            ],
+            "start": 2011,
+            "finish": 2017
+        },
+        {
+            "name": "CSS Methodologies",
+            "notes": [
+              "BEM",
+              "CSS Guidelines"
+            ],
+            "start": 2013,
+            "finish": 2017
+        },
+        {
+            "name": "CSS Frameworks",
+            "notes": [
+              "Compass",
+              "Bootstrap"
+            ],
+            "start": 2011,
+            "finish": 2017
+        },
+        {
+            "name": "CSS Modules",
+            "start": 2017,
+            "finish": 2017
+        }
+      ]
+    },
+    {
+      "name": "JavaScript / ES6 / Typescript",
+      "skills": [
+        {
+            "name": "OO & Modular Approaches",
+            "start": 2013, 
+            "notes": [
+              "Typescript modules"
+            ]
+        },
+        {
+            "name": "Test driven development",
+            "start": 2015,
+             "notes": [
+              "Karma",
+              "Jasmine",
+              "Protractor"
+            ]
+        },
+        {
+            "name": "MV*",
+            "notes": [
+              "Backbone",
+              "AngularJS",
+              "ReactJS"
+            ],
+            "start": 2011
+        },
+        {
+            "name": "jQuery",
+            "start": 2011
+        },
+        {
+            "name": "JS Utility Libraries",
+            "notes": [
+              "Lodash",
+              "Underscore",
+              "JQuery"
+            ],
+            "start": 2011
+        },
+        {
+            "name": "JS Transpilers",
+            "notes": [
+              "Babel",
+              "Typescript"
+            ],
+            "start": 2014
+        }
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "skills": [
+        {
+            "name": "Apache Cordova",
+            "start": 2013,
+            "finish": 2014
+        }, 
+        {
+            "name": "iOS (Objective-C)",
+            "start": 2012,
+            "finish": 2013
+        }
+      ]
+    },
+    {
+      "name": "CMS",
+      "skills": [
+        {
+            "name": "Wordpress",
+            "start": 2010,
+            "finish": 2016
+        }
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "skills": [
+        {
+            "name": "NodeJS",
+            "start": 2011,
+            "finish": 2015, 
+            "notes": [
+              "ExpressJS",
+              "Socket.io",
+              "Restify"
+            ]
+        }, 
+        {
+            "name": "Ruby on Rails",
+            "start": 2011,
+            "finish": 2012
+        }, 
+        {
+            "name": "PHP",
+            "start": 2010,
+            "finish": 2013,
+            "notes": [
+              "Symphony",  
+              "Yii"
+            
+            ]
+        }
+      ]
+    },
+    {
+      "name": "Templating",
+      "skills": [
+        {
+            "name": "Handlebars",
+            "start": 2016
+        },
+        {
+            "name": "Jade",
+            "start": 2015
+        },
+        {
+            "name": "Moustache",
+            "start": 2011,
+            "finish": 2013
+        }
+      ]
+    },
+    {
+      "name": "Tooling",
+      "start": 2010,
+      "skills": [
+        {
+            "name": "SCM",
+            "start": 2010,
+            "notes": [
+              "Git",
+              "Subversion"
+            ]
+        },
+        {
+            "name": "Package Managers",
+            "start": 2012,
+            "notes": [
+              "NPM",
+              "Bower",
+              "Homebrew"
+            ]
+        },
+        {
+            "name": "Task Runners / Bundlers",
+            "start": 2014,
+            "notes": [
+              "Grunt",
+              "Gulp",
+              "Webpack",
+              "Browserify"
+            ]
+        },
+        {
+            "name": "Browser / Device Testing",
+            "start": 2011,
+            "notes": [
+              "SauceLabs",
+              "Protractor",
+              "Karma",
+              "Jasmine"
+            ]
+        },
+        {
+            "name": "Issue Tracking",
+            "start": 2010,
+            "notes": [
+              "Jira",
+              "Pivotal Tracker",
+              "Basecamp"
+            ]
+        }
+      ]
+    },
+    {
+      "name": "Data",
+      "skills": [
+        {
+            "name": "SQL (Postgres / MySql)",
+            "start": 2010,
+            "finish": 2016
+        },
+        {
+            "name": "REST APIs",
+            "start": 2011,
+            "finish": 2017
+        },
+        {
+            "name": "MongoDB",
+            "start": 2012,
+            "finish": 2014
+        },
+        {
+            "name": "Web Storage",
+            "start": 2012,
+            "finish": 2013
+        }
+      ]
+    },
+    {
+      "name": "Visualizations",
+      "skills": [
+        {
+            "name": "SVG Markup",
+            "start": 2012
+        },
+        {
+            "name": "Canvas API",
+            "start": 2014,
+            "finish": 2017
+        },
+        {
+            "name": "Charting libraries",
+            "start": 2011,
+            "notes": [
+              "Raphael.JS",
+              "d3.js",
+              "Highchart",
+              "GoJS", 
+              "plotly.js",
+              "snap"
+            ]
+        },
+        {
+            "name": "Mapping libraries",
+            "start": 2014,
+            "notes": [
+              "d3.js",
+              "OpenLayer", 
+              "Leaflet"
+            ]
+        }
+      ]
+    }
+  ],
+  "experiences": [
+    {
+        "position": "Front Developer",
+        "company": "Stanford - Nature Capital Project",
+        "isContract": false,
+        "projectLink":  "https://charlottegiseleweil.github.io/webviz_natcap/",
+        "description": "Collaborating with a Wood Institute team, I develop a dashboard tool for visualizing the impact of human intervention on river watersheds",
+        "startDate": "2016-04-01T00:00",
+        "endDate": "2017-02-01T00:00"
+    },
+    {
+        "position": "Front Developer",
+        "company": "Stanford - School of Medecine Team",
+        "isContract": false,
+        "projectLink":  "http://rasmusfonseca.github.io/EvoBundle/gpcr_demo2/",
+        "description": "Collaborating with a School of Medicine team, I contributed to the development of a computational chemistry data visualization tool for analyzing the dynamics of drug-target interactions. Currently this tool is the being adopted a GPCRmd, which is a European consortium for the studying drug-target dynamics",
+        "startDate": "2016-02-03T00:00",
+        "endDate": "2016-03-01T00:00"
+    },
+    {
+        "position": "Front Developer",
+        "company": "Stanford - School of Medecine Team",
+        "isContract": false,
+        "projectLink": "http://chabb.github.io/dominoPlot/",
+        "description":  "DominoPlot is new type of chart that I created to allow an easy and interactive visualisations of multiple sets, offering an alternative to Venn diagrams which fail to present clearly a large number of sets.",
+        "startDate": "2016-01-01T00:00",
+        "endDate": "2016-04-01T00:00"
+    },
+    {
+        "position": "Web Developer",
+        "company": "ThoughtSpot",
+        "isContract": true,
+        "description": "The ToughtSpot application is a large-scale AngularJS application. I migrated legacy old Javascript code to Typescript modules and modern Angular Component. I moved old end-to-end karma tests to Protractor tests. I implemented a database viewer that can display very large schema wuthout performance degradation",
+        "startDate": "2015-01-01T00:00",
+        "endDate": "2017-11-01T00:00"
+    },
+    {
+        "position": "iOS Developer - Bluetooth Developer",
+        "company": "Icare Institute - Breitling Exospace B55",
+        "isContract": true,
+        "projectLink": "http://www.breitling.com/en/campaigns/exospace-b55-connected",
+        "description":  "The Exospace B55 connected watch offers functionalities tailored for pilots. I implemented the watch's iOS application and designed the bluetooth specification for communication between the watch and the smartphone",
+        "startDate": "2014-09-01T00:00",
+        "endDate": "2015-08-01T00:00"
+    },
+    {
+        "position": "Web Developer",
+        "company": "Icare Insitute - Smartscan",
+        "isContract": true,
+        "projectLink": "http://smartscan.icare.ch",
+        "description": "Web Developer working on the development and maintenance of customer portal using HTML, CSS, JavaScript and TeamSite.",
+        "startDate": "2012-09-01T00:00",
+        "endDate": "2013-01-01T00:00"
+    },
+    {
+        "position": "Software Engineer",
+        "company": "Icare Institute - Nielsen Smartpics",
+        "isContract": true,
+        "description": "Designed and implemented the Rest API for the Nielsen Smartpics iOS and Android applications",
+        "projectLink" : "https://play.google.com/store/apps/details?id=ch.icare.smartpics&hl=en",
+        "startDate": "2012-04-01T00:00",
+        "endDate": "2013-09-01T00:00"
+    },
+    {
+        "position": "iOS Developer",
+        "company": "Personal project - FCGridView",
+        "isContract": false,
+        "description": "A library that implement a gridlayout using constraints, written in Objective-C.",
+        "projectLink" : "https://github.com/chabb/FCGridView",
+        "startDate": "2011-09-11T00:00",
+        "endDate": "2011-12-01T00:00"
+    },
+    {
+        "position": "Full Stack Developer",
+        "company": "Icare Insitute - Technopole Vert",
+        "isContract": true,
+        "projectLink": "http://smartscan.icare.ch",
+        "description": "Technopole Vert (i.e. 'Green technopole') is an information system that retrieves measurements from sensors and stores the electrical production (by solar panels) and building consumption data. A visualization has been designed on the top of this system. I built the full system",
+        "startDate": "2011-09-01T00:00",
+        "endDate": "2012-01-01T00:00"
+    },
+    {
+        "position": "D3.JS Development",
+        "company": "Personal projects - D3.JS",
+        "isContract": false,
+        "description": "Various experiments using d3.js",
+        "projectLink" : "https://bl.ocks.org/chabb",
+        "startDate": "2010-12-01T00:00",
+        "endDate": "2011-03-01T00:00"
+    },
+    {
+        "position": "Internship",
+        "company": "Dimension Cinq",
+        "isContract": false,
+        "projectLink": "http://waterlily.ch",
+        "description": "Web Design & Development Lead working on multiple projects using technologies such as HTML, CSS, JavaScript, Flash and PHP. Projects ranged from content-driven portals to marketing sites.",
+        "startDate": "2010-02-01T00:00",
+        "endDate": "2011-11-01T00:00"
+    }
+  ]
+}

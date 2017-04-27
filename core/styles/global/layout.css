@@ -1,0 +1,16 @@
+@value baseColor from "./values/colors.css";
+@value baseFontFamily, baseFontSize, baseLineHeight from "./values/typography.css";
+@value minWidth from "./values/layout.css";
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #container {
+  height: 100%;
+}
+
+body {
+  min-width: minWidth;
+  margin: 0;
+}

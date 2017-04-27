@@ -1,0 +1,4 @@
+@value defaultDuration: 200ms;
+@value defaultEasing: ease-in;
+
+@value defaultTransition: defaultDuration defaultEasing;

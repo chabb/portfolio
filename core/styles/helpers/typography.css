@@ -1,0 +1,82 @@
+@import "css-modularscale";
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+
+@value baseFontFamily, baseFontSize, baseFontWeight, baseLineHeight, baseMargin, headingTracking, boldFontWeight from "../values/typography.css";
+@value primaryColor, secondaryColor, secondaryColorDark, baseColor from "../values/colors.css";
+@value breakpointMedium from "../values/breakpoints.css";
+
+/*
+  Headings, vertical rhythm based on golden section
+  https://www.gridlover.net/try
+ */
+.heading {
+  letter-spacing: headingTracking;
+
+  font-family: baseFontFamily;
+}
+
+.heading-1 {
+  composes: heading;
+
+  margin-top: 0.35294118em;
+  margin-bottom: 0.70588236em;
+
+  font-size: 4.25em;
+  line-height: 1.05882353em;
+}
+
+.heading-2 {
+  composes: heading;
+
+  font-weight: boldFontWeight;
+  color: primaryColor;
+
+  margin-top: 0.57142857em;
+  margin-bottom: 0.57142857em;
+
+  font-size: 2.625em;
+  line-height: 1.14285714em;
+}
+
+.heading-3 {
+  composes: heading;
+
+  margin-top: 0.92307692em;
+  margin-bottom: 0;
+
+  font-size: 1.625em;
+  font-weight: 200;
+  line-height: 1.84615385em;
+}
+
+.heading-4 {
+  composes: heading;
+
+  margin-top: 1.5em;
+  margin-bottom: 0;
+
+  font-weight: boldFontWeight;
+}
+
+.small {
+  font-size: 0.618em;
+}
+
+/* TODO: Potentially make this into another component? */
+.blockquote-right {
+  width: 100%;
+  margin-left: baseMargin;
+  padding-left: baseMargin;
+
+  border-left: solid 5px baseColor;
+}
+
+@media breakpointMedium {
+  .blockquote-right {
+    float: right;
+
+    width: 50%;
+    margin-left: calc(baseMargin * 2);
+  }
+}
