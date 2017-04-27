@@ -31,4 +31,3 @@ Theses CSS files contain classes to be used elsewhere - examples include heading
 
 ---
 
-Made by Dave O'Brien ([@daveobriencouk](https://twitter.com/daveobriencouk))

@@ -93,7 +93,7 @@ tasks.set('build', () => {
 });
 
 //
-// Build and publish the website
+// Build and publish the website ( TODO : script to push on gh-pages )
 // -----------------------------------------------------------------------------
 tasks.set('publish', () => {
   const firebase = require('firebase-tools');
