@@ -301,7 +301,7 @@
   ],
   "experiences": [
     {
-        "position": "Front Developer",
+        "position": "Frontend Developer",
         "company": "Stanford - Nature Capital Project",
         "isContract": false,
         "projectLink":  "https://charlottegiseleweil.github.io/webviz_natcap/",
@@ -310,7 +310,7 @@
         "endDate": "2017-02-01T00:00"
     },
     {
-        "position": "Front Developer",
+        "position": "Frontend Developer",
         "company": "Stanford - School of Medecine Team",
         "isContract": false,
         "projectLink":  "http://rasmusfonseca.github.io/EvoBundle/gpcr_demo2/",
@@ -319,7 +319,7 @@
         "endDate": "2016-03-01T00:00"
     },
     {
-        "position": "Front Developer",
+        "position": "Frontend Developer",
         "company": "Stanford - School of Medecine Team",
         "isContract": false,
         "projectLink": "http://chabb.github.io/dominoPlot/",
