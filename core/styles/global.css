@@ -1,9 +1,0 @@
-/*
- * Global Styles
- */
-
-@import "normalize.css";
-
-@import url(./global/button.css);
-@import url(./global/layout.css);
-@import url(./global/typography.css);

@@ -1,7 +1,0 @@
-@value breakpointSmall: (min-width: 400px);
-@value breakpointMedium: (min-width: 760px);
-@value breakpointLarge: (min-width: 960px);
-
-@value breakpointSmallMax: (max-width: 399px);
-@value breakpointMediumMax: (max-width: 759px);
-@value breakpointLargeMax: (max-width: 959px);

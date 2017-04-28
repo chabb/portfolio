@@ -1,9 +1,0 @@
-@value baseMargin from "../../core/styles/values/typography.css";
-
-.root {
-  position: relative;
-
-  clear: fix;
-
-  margin-bottom: calc(baseMargin * 2);
-}
