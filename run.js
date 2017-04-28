@@ -17,8 +17,7 @@ const webpack = require('webpack');
 
 // TODO: Update configuration settings
 const config = {
-  title: "Francois cahbbey: Web Developer",    // Your website title
-  url: 'https://rsb.kriasoft.com',          // Your website URL
+  title: "Francois chabbey: Web Developer",    // Your website title
   project: 'francoischabbey',                // Firebase project. See README.md -> How to Deploy
   trackingID: 'UA-XXXXX-Y',                 // Google Analytics Site's ID
 };
