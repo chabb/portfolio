@@ -79,6 +79,7 @@ function resolve(routes, context) {
     return route.load().then(Page => <Page route={route} error={context.error} />);
   }
 
+  console.log(routes, context);
   const error = new Error('Page not found');
   error.status = 404;
   return Promise.reject(error);
