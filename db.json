@@ -346,7 +346,7 @@
     },
     {
         "position": "Web Developer",
-        "company": "Icare Insitute - Smartscan",
+        "company": "Icare Institute - Smartscan",
         "isContract": true,
         "projectLink": "http://smartscan.icare.ch",
         "description": "Web Developer working on the development and maintenance of customer portal using HTML, CSS, JavaScript and TeamSite.",
@@ -373,7 +373,7 @@
     },
     {
         "position": "Full Stack Developer",
-        "company": "Icare Insitute - Technopole Vert",
+        "company": "Icare Institute - Technopole Vert",
         "isContract": true,
         "projectLink": "http://technopole-vert.ch",
         "description": "Technopole Vert (i.e. 'Green technopole') is an information system that retrieves measurements from sensors and stores the electrical production (by solar panels) and building consumption data. A visualization has been designed on the top of this system. I built the full system",
