@@ -1,6 +1,6 @@
 [
   {
-    "path": "/portfolio2",
+    "path": "/portfolio",
     "page": "./pages/home",
     "chunk": "main",
     "data": {}
