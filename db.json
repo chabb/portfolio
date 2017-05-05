@@ -381,7 +381,7 @@
         "endDate": "2012-01-01T00:00"
     },
     {
-        "position": "D3.JS Development",
+        "position": "D3.js Development",
         "company": "Personal projects - D3.JS",
         "isContract": false,
         "description": "Various experiments using d3.js",
